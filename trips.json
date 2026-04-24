@@ -1,0 +1,32 @@
+[
+  {
+    "code": "GR01",
+    "name": "Gale Reef",
+    "length": "3 nights / 4 days",
+    "start": "2026-06-15",
+    "resort": "Emerald Bay Resort",
+    "perPerson": "$799",
+    "image": "reef1.jpg",
+    "description": "Explore beautiful reef views and relaxing waterfront accommodations."
+  },
+  {
+    "code": "DR02",
+    "name": "Dawson's Reef",
+    "length": "5 nights / 6 days",
+    "start": "2026-07-01",
+    "resort": "Coral Sands Resort",
+    "perPerson": "$999",
+    "image": "reef2.jpg",
+    "description": "Enjoy guided tours, diving adventures, and oceanfront dining."
+  },
+  {
+    "code": "CR03",
+    "name": "Claire's Reef",
+    "length": "4 nights / 5 days",
+    "start": "2026-08-10",
+    "resort": "Sunset Pearl Resort",
+    "perPerson": "$899",
+    "image": "reef3.jpg",
+    "description": "Experience island excursions, reef exploration, and luxury accommodations."
+  }
+]
